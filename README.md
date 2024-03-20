@@ -1,26 +1,24 @@
-# DavidHenderson.github.io
+<h1>Hi, I'm David!
 
-Enthusiastic Data Analyst who is skilled in Google Sheets/Excel, SQL, BigQuery, R, and Tableau.
-
-### Relevant Work Experience
-Mehcanical Engineering/Engineering Sales - Nashville Tennessee 2019-2021
-
-Business Development Representative 2023-2024
+<h2>👨‍💻 Data Analytics Projects:</h2>
+# Coursera: Data Analytics Bootcamp 2023-2024
+# Coursera: Tabluea for Business Analytics
 
 
 
+<h2> 🤳 Connect with me:</h2>
 
-### Education 
-Middle Tennessee State University 2018
--Mechanical Engineering Technology 
--Experimental vehicle Team 2017-2018
-
-Google Coursera Data Analytics BootCamp 2024
--Data Preparation/Cleaning/wrangling/validation
--Excel/Google Sheets
--SQL w/Google BigQuery
--Tableau 
--R Programming Language 
+[linkedin]: https://www.linkedin.com/in/devan4723/
+[Email]: Dehenderson333@gmail.com 
 
 
-### Projects
+
+- 🔭 I’m currently working on: Bettering myself as a Data Analyst and understanding how Businesses function
+- 🌱 I’m currently learning: Advanced Data Analytics and Business Intelligence Analytics, Networking, and Public Speaking
+- 👯 I’m looking to collaborate on: how to Solve Problems in Business, and the Environment
+- 🤔 I’m looking for help with: Finding the right opportunity for me in Data/Business Analytics
+- 💬 Ask me about: the Best Ramen Restaraunt in my State
+- 📫 How to reach me: https://www.linkedin.com/in/devan4723/
+- 😄 Go Vols! 
+- ⚡ Fun fact: I drive a Manual transmission ONLY
+--> dehenderson333@gmail.com 
