@@ -3,6 +3,21 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+    <img src="https://github.com/xDavidHx/DavidHenderson.github.io/blob/main/google-data-analytics-professional-certificate.2.png" ">
+</body>
+</html>
+
+
+
 <h2> 🤳 Certifications:</h2>
 
 [Coursera: Data Analytics Bootcamp 2023-2024] (https://www.linkedin.com/in/devan4723/)
