@@ -1,14 +1,12 @@
-<h1>Hi, I'm David!
+<h1> Nice to connect with you, I'm David.
+
+
+Data Artist | Problem Solver | Team Player
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </head>
 <body>
